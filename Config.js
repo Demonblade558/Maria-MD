@@ -4,7 +4,7 @@ require('dotenv').config();
 
 //contact details
 global.ownernumber = [ process.env.OWNER_NUMBER || "919931122319"],
-global.ownername = process.env.OWNER_NAME || "💙𓆩‎✘AʏᴜSʜ✘𓆪_✰",
+global.ownername = process.env.OWNER_NAME || "Ŧɇȼħnø_sŧȺɍ707"],
 global.ytname = "YT: AyushBotz.inc"
 global.socialm = "GitHub: Ayushpandey023"
 global.location = "Indian"
@@ -39,15 +39,15 @@ global.autoread_status = false //auto view status/story
 
 //reply messages
 global.mess = {
-    done: '🍭 *Here you go, darling!* ',
-    prem: '🍭 *My darling, this feature is reserved for premium users only*',
-    admin: '🍭 *My darling, this feature is reserved for admins only*',
-    botAdmin: '🍭 *Darling, this feature can only be used when the bot is a group admin* ',
-    owner: '🍭 *My dearest, this feature is reserved for the owner only*',
-    group: '🍭 *Sweetheart, this feature is exclusively for groups*',
-    private: '🍭 *My love, this feature is exclusively for private chats*',
-    wait: '🍭 *Darling, in process...* ',    
-    error: '🍭 *Oh darling, there seems to be an error!*',
+    done: '🍭 *Here you go, bloxfruits lover!* ',
+    prem: '🍭 *bloxfruits lover, this feature is reserved for premium users only*',
+    admin: '🍭 *bloxfruits lover, this feature is reserved for admins only*',
+    botAdmin: '🍭 *bloxfruits lover, this feature can only be used when the bot is a group admin* ',
+    owner: '🍭 *bloxfruits lover, this feature is reserved for the owner only*',
+    group: '🍭 *bloxfruits lover, this feature is exclusively for groups*',
+    private: '🍭 *bloxfruits lover, this feature is exclusively for private chats*',
+    wait: '🍭 *please wait in process...* ',    
+    error: '🍭 *sorry bloxfruits lover, there seems to be an error!*',
 }
 
 module.exports = {
