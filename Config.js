@@ -40,19 +40,19 @@ global.autoread_status = false //auto view status/story
 //reply messages
 global.mess = {
     done: '🍭 *Here you go, darling!* ',
-    prem: '🍭 *My darling, this feature is reserved for premium users only*',
-    admin: '🍭 *My darling, this feature is reserved for admins only*',
-    botAdmin: '🍭 *Darling, this feature can only be used when the bot is a group admin* ',
-    owner: '🍭 *My dearest, this feature is reserved for the owner only*',
-    group: '🍭 *Sweetheart, this feature is exclusively for groups*',
+    prem: '🍭 *Bloxfruits lover, this feature is reserved for premium users only*',
+    admin: '🍭 *Bloxfruits lover, this feature is reserved for admins only*',
+    botAdmin: '🍭 *bloxfruits lover, this feature can only be used when the bot is a group admin* ',
+    owner: '🍭 *Bloxfruits lover, this feature is reserved for the owner only*',
+    group: '🍭 *Bloxfruts lovet, this feature is exclusively for groups*',
     private: '🍭 *My love, this feature is exclusively for private chats*',
-    wait: '🍭 *Darling, in process...* ',    
-    error: '🍭 *Oh darling, there seems to be an error!*',
+    wait: '🍭 *, in process please wait...* ',    
+    error: '🍭 *, there seems to be an error!*',
 }
 
 module.exports = {
 ownernumber: global.ownernumber,
-ownername: global.ownername,
+ownername: global.Techno_star707,
 sessionId: process.env.id,
 AUTO_BLOCK : process.env.PM_BLOCKER,
 STATUS_SAVER : "true",
